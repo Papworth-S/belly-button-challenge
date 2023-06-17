@@ -26,7 +26,9 @@ with this
 
 
 
-This assignment is posted to Git Pages for access. 
+This assignment is posted to GitHub Pages for access.
+
+Your site is live at https://papworth-s.github.io/belly-button-challenge/
 
 Thank you for taking the time to look at my assignment. 
 
