@@ -3,7 +3,7 @@ UofU Week 14 Assignment
 
 This Assignment is broken down into three parts.  
 
-The first is to pull the data from a remote site.  For this exercise we pulled a larg CSV called samples.json [https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json] (https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json) 
+The first is to pull the data from a remote site.  For this exercise we pulled a larg CSV called samples.json [https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json) 
 
 We then needed a HTML boilerplate. This was provide for us for the exercise.
 
